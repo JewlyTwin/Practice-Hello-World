@@ -6,7 +6,7 @@ const NavBarSection = styled.div`
   width: 100%;
   margin-top: 60px;
   height: 94px;
-  background-image: url(${Topbar});
+  background-image: url(/img/background.png);
   display: block;
   position: sticky;
   top: 0;
