@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import Topbar from '../img/top-bar-bg.png'
+import Topbar from '/img/top-bar-bg.png'
 
 const NavBarSection = styled.div`
   height: 94px;
